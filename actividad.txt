@@ -1,12 +1,16 @@
-Actualizar el sistema con sudo apt update y sudo apt upgrade
-Investigar con qué comando se puede descargar el navegador Mozilla Firefox y ejecutarlo. Una vez instalado deberán abrir en la pestaña del navegador https://github.com/  abrir sus respectivas cuentas en sus navegadores.
-Crear un repositorio llamado clase-maq-virtuales que contenga Readme.MD (un repositorio no vacío) y clonarlo.
-Para clonar el repositorio tener en cuenta lo explicado en el siguiente documento. Link 
-Una vez clonado el repositorio, realizarán la siguiente ejercitación:
-En formato TXT,  resolver el siguiente cuestionario:				
-Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
-¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
-¿Qué tipo de máquina virtual soporta virtualBox?. 
-¿Qué función cumple el hypervisor en la virtualización?
-Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
-Subir este archivo al repositorio desde la máquina virtual.
+- ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+
+ Algunos lenguajes requieren compilación previa a la ejecución, lo que significa que el código fuente se convierte en un archivo ejecutable específico para una plataforma. Si el compilador no está disponible para un sistema operativo en particular, el lenguaje no será utilizable en ese sistema
+
+- ¿Qué tipo de máquina virtual soporta virtualBox? 
+
+ VirtualBox VM
+
+- ¿Qué función cumple el hypervisor en la virtualización?
+
+ El hypervisor es un componente esencial en la tecnología de virtualización. Su función principal es gestionar y controlar las máquinas virtuales (VMs) en un entorno de virtualización. El hypervisor crea y administra estas VMs, permitiendo que múltiples sistemas operativos y aplicaciones se ejecuten de manera aislada y eficiente en un mismo servidor físico.
+
+- Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+ 
+ En un entorno de virtualización adecuadamente configurado, el aislamiento entre las máquinas virtuales está diseñado para evitar que un fallo en una VM afecte a las demás.
+
