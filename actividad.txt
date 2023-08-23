@@ -1,0 +1,12 @@
+Actualizar el sistema con sudo apt update y sudo apt upgrade
+Investigar con qué comando se puede descargar el navegador Mozilla Firefox y ejecutarlo. Una vez instalado deberán abrir en la pestaña del navegador https://github.com/  abrir sus respectivas cuentas en sus navegadores.
+Crear un repositorio llamado clase-maq-virtuales que contenga Readme.MD (un repositorio no vacío) y clonarlo.
+Para clonar el repositorio tener en cuenta lo explicado en el siguiente documento. Link 
+Una vez clonado el repositorio, realizarán la siguiente ejercitación:
+En formato TXT,  resolver el siguiente cuestionario:				
+Con toda la mesa de trabajo debatan sobre las siguientes preguntas y contesten en conjunto: 
+¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?. 
+¿Qué tipo de máquina virtual soporta virtualBox?. 
+¿Qué función cumple el hypervisor en la virtualización?
+Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+Subir este archivo al repositorio desde la máquina virtual.
